@@ -1,0 +1,22 @@
+Variable,Type,Description
+customerID,Identifier,Unique customer identifier
+gender,Categorical,Customer gender
+SeniorCitizen,Binary Numeric,"Whether customer is a senior citizen: 1 = Yes, 0 = No"
+Partner,Categorical,Whether customer has a partner
+Dependents,Categorical,Whether customer has dependents
+tenure,Numeric,Number of months the customer has stayed with the company
+PhoneService,Categorical,Whether customer has phone service
+MultipleLines,Categorical,Whether customer has multiple phone lines
+InternetService,Categorical,Type of internet service
+OnlineSecurity,Categorical,Whether customer has online security
+OnlineBackup,Categorical,Whether customer has online backup
+DeviceProtection,Categorical,Whether customer has device protection
+TechSupport,Categorical,Whether customer has technical support
+StreamingTV,Categorical,Whether customer uses streaming TV
+StreamingMovies,Categorical,Whether customer uses streaming movies
+Contract,Categorical,Customer contract type
+PaperlessBilling,Categorical,Whether paperless billing is used
+PaymentMethod,Categorical,Customer payment method
+MonthlyCharges,Numeric,Monthly amount charged to the customer
+TotalCharges,Numeric,Total amount charged to the customer
+Churn,Target / Binary,Whether customer churned: Yes or No

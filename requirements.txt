@@ -1,0 +1,12 @@
+numpy==2.1.3
+
+pandas==2.2.3
+
+matplotlib
+
+scikit-learn==1.6.1
+
+joblib
+
+jupyter
+
